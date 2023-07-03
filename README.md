@@ -1,3 +1,5 @@
+<script src="animation.js"></script>
+
 <style>
   ul {
     list-style-type: none;
