@@ -1,6 +1,6 @@
 # Filipe Amaral Louro
 
-[![Facebook](https://i.imgur.com/KL7ySHX.png)](https://www.facebook.com/filipe.amaral.louro/)
+[![Facebook]([https://i.imgur.com/KL7ySHX.png](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/600px-Facebook_f_logo_%282019%29.svg.png))](https://www.facebook.com/filipe.amaral.louro/)
 [![Instagram](https://i.imgur.com/tf0elIL.png)](https://www.instagram.com/filipe_loiro/)
 [![LinkedIn](https://i.imgur.com/ZBrCTsP.png)](https://www.linkedin.com/in/filipe-amaral-louro/)
 
